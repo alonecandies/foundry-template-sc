@@ -1,0 +1,1 @@
+# foundry-template-sc
